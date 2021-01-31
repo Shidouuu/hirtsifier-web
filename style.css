@@ -1,0 +1,87 @@
+/* hirts grid */
+#grid_wrap {
+    display: grid;
+    position: absolute;
+    grid-auto-columns: 12%;
+    grid-auto-rows: auto;
+    width: 100vw;
+    height: 100vh;
+    margin-top: 8%;
+}
+.r1 {
+    grid-row: 1;
+}
+.r2 {
+    grid-row: 2;
+}
+.r3 {
+    grid-row: 3;
+}
+.r4 {
+    grid-row: 4;
+}
+.r5 {
+    grid-row: 5;
+}
+.r6 {
+    grid-row: 6;
+}
+
+/* main body*/
+#title {
+    position: relative;
+    width: 25%;
+    height: auto;
+    margin-top: 5%;
+    margin-bottom: 0%;
+}
+#inp_div {
+    margin-left: 17%;
+    float: left;
+}
+#out_div {
+    margin-right: 17%;
+    float: right;
+}
+#inp_div, #out_div {
+    position: relative;
+    overflow: visible;
+    width: 30%;
+    height: 50%;
+}
+#input {
+    float: left;
+}
+#output {
+    float: right;
+}
+#input, #output {
+    width: 100%;
+    height: 100%;
+    min-height: 100%;
+    resize: none;
+    font-family: Calibri;
+    font-size: 2.25vh;
+}
+#inp_title, #out_title {
+    position: relative;
+    top: 2.5%;
+    text-align: center;
+    font-family: 'Segoe UI Semibold';
+    font-size: 3.2vh;
+}
+#color_box {
+    position: absolute;
+    width: 70%;
+    height: 62.5%;
+    background-color: rgba(255, 210, 0, 0.7);
+    left: 15%;
+    top: 18%;
+}
+#char_num {
+    position: relative;
+    text-align: center;
+    font-family: Arial;
+    font-size: 1.5vh;
+    top: 5%
+}
