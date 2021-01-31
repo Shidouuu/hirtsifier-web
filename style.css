@@ -74,7 +74,7 @@
     position: absolute;
     width: 70%;
     height: 62.5%;
-    background-color: rgba(255, 210, 0, 0.7);
+    background-color: #ffd200b3;
     left: 15%;
     top: 18%;
 }
@@ -82,6 +82,13 @@
     position: relative;
     text-align: center;
     font-family: Arial;
-    font-size: 1.5vh;
-    top: 5%
+    font-size: 1.75vh;
+    top: 5%;
+}
+#github {
+    position: absolute;
+    bottom: 1%;
+    right: 1%;
+    width: 5vh;
+    height: auto;
 }
