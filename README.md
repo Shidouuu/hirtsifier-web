@@ -1,5 +1,7 @@
 # hirtsifier-web
-Hosted at https://www.hirtsifier.tk
+Originally hosted at https://www.hirtsifier.tk, but freenom was not very nice and kept reseting itself, so now somebody took it over and it redirects to a p0rn site.
+
+Now hosted at https://shidouuu.github.io/hirtsifier-web/.
 
 ![hirtsifier-1](https://i.imgur.com/DpSXofS.png)
 
